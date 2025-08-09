@@ -1,0 +1,7 @@
+This is a simple text file.
+It contains three lines of text.
+We will use it to test our text file analyzer.
+
+Python is a great programming language.
+Tkinter makes it easy to create simple graphical user interfaces.
+The project will count the words, characters, and lines in this file.
